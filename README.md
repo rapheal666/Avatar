@@ -1,1 +1,2 @@
 # Avatar
+printf "Hello world";
